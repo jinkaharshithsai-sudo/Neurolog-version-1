@@ -1,6 +1,3 @@
-## Team Member: [Member 2 Name]
-**Role:** AI and Study Environment Engineer
-
 ### Contribution Overview
 My primary responsibility within the NeuroLog project focused on developing the core study environment and implementing AI-assisted learning components. The main objective was to seamlessly connect the user's learning experience with our adaptive system, while exploring and integrating local AI to support educational activities.
 
@@ -28,7 +25,7 @@ Engineered the integration of local AI capabilities to power the platform's assi
 * **Selected Model:** Qwen2.5:7B
 
 ### Local AI Setup Instructions
-To utilize the AI-assisted learning functionality locally, ensure Ollama is installed on your system. Once installed, execute the following command to download the required model:
+To utilize the AI-assisted learning functionality locally, ensure Ollama is installed on your system. Once installed, execute the following command to download the required model: Qwn2.5:7b.
 
 ```bash
 ollama pull qwen2.5:7b
